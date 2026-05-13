@@ -4,18 +4,18 @@ body{
     text-align: center;
 }
 
-.boa{
+.Boa{
     color: red;
     font-size: 20px;
 }
 
 .Faz{
     color: green;
-    background-color: yellow;
+    font-size: 20px;
 }
 
 .Isso{
     color: purple;
-    border: 2px solid black;
+    font-size: 20px;
 }
 }
