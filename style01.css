@@ -1,0 +1,21 @@
+body{
+#titulo{
+    color: blue;
+    text-align: center;
+}
+
+.boa{
+    color: red;
+    font-size: 20px;
+}
+
+.Faz{
+    color: green;
+    background-color: yellow;
+}
+
+.Isso{
+    color: purple;
+    border: 2px solid black;
+}
+}
